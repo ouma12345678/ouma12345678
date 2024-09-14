@@ -1,6 +1,6 @@
 - 👋 Hi, I’m oumayma!
-- 👀 I’m interested in programming , physics and statistics 
-- 🌱 I’m currently learning python and JavaScript
+- 👀 I’m interested in Programming , Physics and Statistics 
+- 🌱 I’m currently learning Python and JavaScript
 
 
 <!---
