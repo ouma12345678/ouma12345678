@@ -1,4 +1,3 @@
-- 👋 Hi, I’m oumayma!
 - 👀 I’m interested in Programming , Physics and Statistics 
 - 🌱 I’m currently learning Python and JavaScript
 
